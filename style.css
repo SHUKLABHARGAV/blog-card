@@ -1,0 +1,8 @@
+ 
+.badge{
+    background: #ab6ef1;
+    border-radius: 25px;
+}
+.card{
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);  
+}
